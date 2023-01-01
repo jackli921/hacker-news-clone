@@ -1,7 +1,8 @@
 class App {
-  constructor() {
-      
-  }  
+    constructor(){
+        
+    }
+
 }
 
-new App();
+new App()
